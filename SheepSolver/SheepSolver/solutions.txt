@@ -1,0 +1,1345 @@
+A solution has been found!
+==========Solution #1===========
+   YH      BH      WH      GH   
+ BA 9WH  WA 5GH  GA12BH  BA 3WH 
+   GA      YA      YA      YA   
+   GH      YH      YH      YH   
+ WA 4BH  BA15WH  WA 0BH  BA13WH 
+   YA      GA      GA      YA   
+   YH      GH      GH      YH   
+ WA14BH  BA 6YH  YA11WH  WA 2GH 
+   GA      WA      BA      BA   
+   GH      WH      BH      BH   
+ WH10BA  BH 1GA  GH 7GA  GH 8YA 
+   YA      BA      WA      WA   
+A solution has been found!
+==========Solution #2===========
+   YH      BH      WH      GH   
+ BA 9WH  WA 5GH  GA12BH  BA 3WH 
+   GA      YA      YA      YA   
+   GH      YH      YH      YH   
+ WA 4BH  BA15WH  WA14BH  BA13WH 
+   YA      GA      GA      YA   
+   YH      GH      GH      YH   
+ WA 0BH  BA 6YH  YA11WH  WA 2GH 
+   GA      WA      BA      BA   
+   GH      WH      BH      BH   
+ WH10BA  BH 1GA  GH 7GA  GH 8YA 
+   YA      BA      WA      WA   
+A solution has been found!
+==========Solution #3===========
+   YH      BH      WH      GH   
+ BA 9WH  WA 5GH  GA12BH  BA 3WH 
+   GA      YA      YA      YA   
+   GH      YH      YH      YH   
+ WA 8BH  BA15WH  WA 0BH  BA13WH 
+   YA      GA      GA      YA   
+   YH      GH      GH      YH   
+ WA14BH  BA 6YH  YA11WH  WA 2GH 
+   GA      WA      BA      BA   
+   GH      WH      BH      BH   
+ WH10BA  BH 1GA  GH 7GA  GH 4YA 
+   YA      BA      WA      WA   
+A solution has been found!
+==========Solution #4===========
+   YH      BH      WH      GH   
+ BA 9WH  WA 5GH  GA12BH  BA 3WH 
+   GA      YA      YA      YA   
+   GH      YH      YH      YH   
+ WA 8BH  BA15WH  WA14BH  BA13WH 
+   YA      GA      GA      YA   
+   YH      GH      GH      YH   
+ WA 0BH  BA 6YH  YA11WH  WA 2GH 
+   GA      WA      BA      BA   
+   GH      WH      BH      BH   
+ WH10BA  BH 1GA  GH 7GA  GH 4YA 
+   YA      BA      WA      WA   
+A solution has been found!
+==========Solution #5===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA13WH  WA 2GH  GA14YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA15WH  WA 0BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 7BH  BA 3WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #6===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA13WH  WA 2GH  GA14YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA15WH  WA 0BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 8BH  BA 3WH  WA 7BH  BA10WH 
+   YA      YA      GA      GH   
+A solution has been found!
+==========Solution #7===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA13WH  WA 2GH  GA 0YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA15WH  WA14BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 7BH  BA 3WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #8===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA13WH  WA 2GH  GA 0YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA15WH  WA14BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 8BH  BA 3WH  WA 7BH  BA10WH 
+   YA      YA      GA      GH   
+A solution has been found!
+==========Solution #9===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA15WH  WA 2GH  GA14YH 
+   YA      GA      BA      BH   
+   YH      GH      BH      BA   
+ BA13WH  WA 7BH  BA 1WH  WA 6GH 
+   YA      GA      GA      YH   
+   YH      GH      GH      YA   
+ WA 0BH  BA 3WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #10===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA15WH  WA 2GH  GA 0YH 
+   YA      GA      BA      BH   
+   YH      GH      BH      BA   
+ BA13WH  WA 7BH  BA 1WH  WA 6GH 
+   YA      GA      GA      YH   
+   YH      GH      GH      YA   
+ WA14BH  BA 3WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #11===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 7BH  BA15WH  WA 2GH  GA14YH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 4BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA 0BH  BA13WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #12===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 7BH  BA15WH  WA 2GH  GA14YH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 8BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA 0BH  BA13WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #13===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 7BH  BA15WH  WA 2GH  GA 0YH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 4BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA14BH  BA13WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #14===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 7BH  BA15WH  WA 2GH  GA 0YH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 8BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA14BH  BA13WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #15===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA13WH  WA 2GH  GA14YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA15WH  WA 0BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 7BH  BA 3WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #16===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA13WH  WA 2GH  GA14YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA15WH  WA 0BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 4BH  BA 3WH  WA 7BH  BA10WH 
+   YA      YA      GA      GH   
+A solution has been found!
+==========Solution #17===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA13WH  WA 2GH  GA 0YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA15WH  WA14BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 7BH  BA 3WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #18===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA13WH  WA 2GH  GA 0YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA15WH  WA14BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 4BH  BA 3WH  WA 7BH  BA10WH 
+   YA      YA      GA      GH   
+A solution has been found!
+==========Solution #19===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA15WH  WA 2GH  GA14YH 
+   YA      GA      BA      BH   
+   YH      GH      BH      BA   
+ BA13WH  WA 7BH  BA 1WH  WA 6GH 
+   YA      GA      GA      YH   
+   YH      GH      GH      YA   
+ WA 0BH  BA 3WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #20===========
+   YH      BH      WH      YA   
+ BA 9WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA15WH  WA 2GH  GA 0YH 
+   YA      GA      BA      BH   
+   YH      GH      BH      BA   
+ BA13WH  WA 7BH  BA 1WH  WA 6GH 
+   YA      GA      GA      YH   
+   YH      GH      GH      YA   
+ WA14BH  BA 3WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #21===========
+   YH      BA      BA      YA   
+ BA 9WH  WA 6GH  GA 1BH  BA10WH 
+   GA      YH      WH      GH   
+   GH      YA      WA      GA   
+ WA 4BH  BA11GH  GA14YH  YA12WH 
+   YA      WH      BH      BH   
+   YH      WA      BA      BA   
+ WA 2GH  GA 0YH  YA13YH  YA 3GH 
+   BA      BH      WH      WH   
+   BH      BA      WA      WA   
+ WA 5GH  GA15YH  YA 8GH  GA 7GH 
+   YA      WH      BH      BH   
+A solution has been found!
+==========Solution #22===========
+   YH      BA      BA      YA   
+ BA 9WH  WA 6GH  GA 1BH  BA10WH 
+   GA      YH      WH      GH   
+   GH      YA      WA      GA   
+ WA 4BH  BA11GH  GA 0YH  YA12WH 
+   YA      WH      BH      BH   
+   YH      WA      BA      BA   
+ WA 2GH  GA14YH  YA13YH  YA 3GH 
+   BA      BH      WH      WH   
+   BH      BA      WA      WA   
+ WA 5GH  GA15YH  YA 8GH  GA 7GH 
+   YA      WH      BH      BH   
+A solution has been found!
+==========Solution #23===========
+   YH      BA      BA      YA   
+ BA 9WH  WA 6GH  GA 1BH  BA10WH 
+   GA      YH      WH      GH   
+   GH      YA      WA      GA   
+ WA 8BH  BA11GH  GA14YH  YA12WH 
+   YA      WH      BH      BH   
+   YH      WA      BA      BA   
+ WA 2GH  GA 0YH  YA13YH  YA 3GH 
+   BA      BH      WH      WH   
+   BH      BA      WA      WA   
+ WA 5GH  GA15YH  YA 4GH  GA 7GH 
+   YA      WH      BH      BH   
+A solution has been found!
+==========Solution #24===========
+   YH      BA      BA      YA   
+ BA 9WH  WA 6GH  GA 1BH  BA10WH 
+   GA      YH      WH      GH   
+   GH      YA      WA      GA   
+ WA 8BH  BA11GH  GA 0YH  YA12WH 
+   YA      WH      BH      BH   
+   YH      WA      BA      BA   
+ WA 2GH  GA14YH  YA13YH  YA 3GH 
+   BA      BH      WH      WH   
+   BH      BA      WA      WA   
+ WA 5GH  GA15YH  YA 4GH  GA 7GH 
+   YA      WH      BH      BH   
+A solution has been found!
+==========Solution #25===========
+   YA      YH      YH      GH   
+ BA10WH  WA14BH  BA15WH  WA 7BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 4BH  BA 3WH  WA 8BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA 0BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #26===========
+   YA      YH      YH      GH   
+ BA10WH  WA14BH  BA15WH  WA 7BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 8BH  BA 3WH  WA 4BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA 0BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #27===========
+   YA      YH      GH      YH   
+ BA10WH  WA14BH  BA 3WH  WA 0BH 
+   GH      GA      YA      GA   
+   GA      GH      YH      GH   
+ YA12WH  WA 4BH  BA 9WH  WA 8BH 
+   BH      YA      GA      YA   
+   BA      YH      GH      YH   
+ GA 1BH  BA15WH  WA 7BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #28===========
+   YA      YH      GH      YH   
+ BA10WH  WA14BH  BA 3WH  WA 0BH 
+   GH      GA      YA      GA   
+   GA      GH      YH      GH   
+ YA12WH  WA 4BH  BA15WH  WA 8BH 
+   BH      YA      GA      YA   
+   BA      YH      GH      YH   
+ GA 1BH  BA 9WH  WA 7BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #29===========
+   YA      YH      GH      YH   
+ BA10WH  WA14BH  BA 3WH  WA 0BH 
+   GH      GA      YA      GA   
+   GA      GH      YH      GH   
+ YA12WH  WA 8BH  BA 9WH  WA 4BH 
+   BH      YA      GA      YA   
+   BA      YH      GH      YH   
+ GA 1BH  BA15WH  WA 7BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #30===========
+   YA      YH      GH      YH   
+ BA10WH  WA14BH  BA 3WH  WA 0BH 
+   GH      GA      YA      GA   
+   GA      GH      YH      GH   
+ YA12WH  WA 8BH  BA15WH  WA 4BH 
+   BH      YA      GA      YA   
+   BA      YH      GH      YH   
+ GA 1BH  BA 9WH  WA 7BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #31===========
+   YA      YH      YH      GH   
+ BA10WH  WA14BH  BA 9WH  WA 7BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 4BH  BA 3WH  WA 8BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA 0BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #32===========
+   YA      YH      YH      GH   
+ BA10WH  WA14BH  BA 9WH  WA 7BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 8BH  BA 3WH  WA 4BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA 0BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #33===========
+   YA      YH      YH      GH   
+ BA10WH  WA14BH  BA13WH  WA 4BH 
+   GH      GA      YA      YA   
+   GA      GH      YH      YH   
+ YA12WH  WA 8BH  BA 9WH  WA 0BH 
+   BH      YA      GA      GA   
+   BA      YH      GH      GH   
+ GA 1BH  BA15WH  WA 7BH  BA 3WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #34===========
+   YA      YH      YH      GH   
+ BA10WH  WA14BH  BA13WH  WA 4BH 
+   GH      GA      YA      YA   
+   GA      GH      YH      YH   
+ YA12WH  WA 8BH  BA15WH  WA 0BH 
+   BH      YA      GA      GA   
+   BA      YH      GH      GH   
+ GA 1BH  BA 9WH  WA 7BH  BA 3WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #35===========
+   YA      YH      YH      GH   
+ BA10WH  WA14BH  BA13WH  WA 8BH 
+   GH      GA      YA      YA   
+   GA      GH      YH      YH   
+ YA12WH  WA 4BH  BA 9WH  WA 0BH 
+   BH      YA      GA      GA   
+   BA      YH      GH      GH   
+ GA 1BH  BA15WH  WA 7BH  BA 3WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #36===========
+   YA      YH      YH      GH   
+ BA10WH  WA14BH  BA13WH  WA 8BH 
+   GH      GA      YA      YA   
+   GA      GH      YH      YH   
+ YA12WH  WA 4BH  BA15WH  WA 0BH 
+   BH      YA      GA      GA   
+   BA      YH      GH      GH   
+ GA 1BH  BA 9WH  WA 7BH  BA 3WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #37===========
+   YA      YH      GH      YH   
+ BA10WH  WA 0BH  BA 3WH  WA14BH 
+   GH      GA      YA      GA   
+   GA      GH      YH      GH   
+ YA12WH  WA 4BH  BA 9WH  WA 8BH 
+   BH      YA      GA      YA   
+   BA      YH      GH      YH   
+ GA 1BH  BA15WH  WA 7BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #38===========
+   YA      YH      GH      YH   
+ BA10WH  WA 0BH  BA 3WH  WA14BH 
+   GH      GA      YA      GA   
+   GA      GH      YH      GH   
+ YA12WH  WA 4BH  BA15WH  WA 8BH 
+   BH      YA      GA      YA   
+   BA      YH      GH      YH   
+ GA 1BH  BA 9WH  WA 7BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #39===========
+   YA      YH      GH      YH   
+ BA10WH  WA 0BH  BA 3WH  WA14BH 
+   GH      GA      YA      GA   
+   GA      GH      YH      GH   
+ YA12WH  WA 8BH  BA 9WH  WA 4BH 
+   BH      YA      GA      YA   
+   BA      YH      GH      YH   
+ GA 1BH  BA15WH  WA 7BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #40===========
+   YA      YH      GH      YH   
+ BA10WH  WA 0BH  BA 3WH  WA14BH 
+   GH      GA      YA      GA   
+   GA      GH      YH      GH   
+ YA12WH  WA 8BH  BA15WH  WA 4BH 
+   BH      YA      GA      YA   
+   BA      YH      GH      YH   
+ GA 1BH  BA 9WH  WA 7BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #41===========
+   YA      YH      YH      GH   
+ BA10WH  WA 0BH  BA 9WH  WA 7BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 4BH  BA 3WH  WA 8BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA14BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #42===========
+   YA      YH      YH      GH   
+ BA10WH  WA 0BH  BA 9WH  WA 7BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 8BH  BA 3WH  WA 4BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA14BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #43===========
+   YA      YH      YH      GH   
+ BA10WH  WA 0BH  BA13WH  WA 4BH 
+   GH      GA      YA      YA   
+   GA      GH      YH      YH   
+ YA12WH  WA 8BH  BA 9WH  WA14BH 
+   BH      YA      GA      GA   
+   BA      YH      GH      GH   
+ GA 1BH  BA15WH  WA 7BH  BA 3WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #44===========
+   YA      YH      YH      GH   
+ BA10WH  WA 0BH  BA13WH  WA 4BH 
+   GH      GA      YA      YA   
+   GA      GH      YH      YH   
+ YA12WH  WA 8BH  BA15WH  WA14BH 
+   BH      YA      GA      GA   
+   BA      YH      GH      GH   
+ GA 1BH  BA 9WH  WA 7BH  BA 3WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #45===========
+   YA      YH      YH      GH   
+ BA10WH  WA 0BH  BA13WH  WA 8BH 
+   GH      GA      YA      YA   
+   GA      GH      YH      YH   
+ YA12WH  WA 4BH  BA 9WH  WA14BH 
+   BH      YA      GA      GA   
+   BA      YH      GH      GH   
+ GA 1BH  BA15WH  WA 7BH  BA 3WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #46===========
+   YA      YH      YH      GH   
+ BA10WH  WA 0BH  BA13WH  WA 8BH 
+   GH      GA      YA      YA   
+   GA      GH      YH      YH   
+ YA12WH  WA 4BH  BA15WH  WA14BH 
+   BH      YA      GA      GA   
+   BA      YH      GH      GH   
+ GA 1BH  BA 9WH  WA 7BH  BA 3WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #47===========
+   YA      YH      YH      GH   
+ BA10WH  WA 0BH  BA15WH  WA 7BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 4BH  BA 3WH  WA 8BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA14BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #48===========
+   YA      YH      YH      GH   
+ BA10WH  WA 0BH  BA15WH  WA 7BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 8BH  BA 3WH  WA 4BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA14BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #49===========
+   YA      GH      YH      YH   
+ BA10WH  WA 7BH  BA 9WH  WA14BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 4BH  BA 3WH  WA 8BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA 0BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #50===========
+   YA      GH      YH      YH   
+ BA10WH  WA 7BH  BA 9WH  WA14BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 8BH  BA 3WH  WA 4BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA 0BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #51===========
+   YA      GH      YH      YH   
+ BA10WH  WA 7BH  BA 9WH  WA 0BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 4BH  BA 3WH  WA 8BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA14BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #52===========
+   YA      GH      YH      YH   
+ BA10WH  WA 7BH  BA 9WH  WA 0BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 8BH  BA 3WH  WA 4BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA14BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #53===========
+   YA      GH      YH      YH   
+ BA10WH  WA 7BH  BA15WH  WA 0BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 4BH  BA 3WH  WA 8BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA14BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #54===========
+   YA      GH      YH      YH   
+ BA10WH  WA 7BH  BA15WH  WA 0BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 8BH  BA 3WH  WA 4BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA14BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #55===========
+   YA      GH      YH      YH   
+ BA10WH  WA 7BH  BA15WH  WA14BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 4BH  BA 3WH  WA 8BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA 0BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #56===========
+   YA      GH      YH      YH   
+ BA10WH  WA 7BH  BA15WH  WA14BH 
+   GH      GA      GA      GA   
+   GA      GH      GH      GH   
+ YA12WH  WA 8BH  BA 3WH  WA 4BH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA 0BH  BA13WH 
+   WH      GA      GA      YA   
+   WA      GH      GH      YH   
+ YA 5BH  BA 6YH  YA11WH  WA 2GH 
+   GH      WA      BA      BA   
+A solution has been found!
+==========Solution #57===========
+   YA      GH      GH      YH   
+ BA10WH  WA 7BH  BA 3WH  WA 2GH 
+   GH      GA      YA      BA   
+   GA      GH      YH      BH   
+ YA12WH  WA 4BH  BA13WH  WA 5GH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA14BH  BA15WH 
+   WH      GA      GA      GA   
+   WA      GH      GH      GH   
+ GA 0YH  YA11WH  WA 8BH  BA 6YH 
+   BH      BA      YA      WA   
+A solution has been found!
+==========Solution #58===========
+   YA      GH      GH      YH   
+ BA10WH  WA 7BH  BA 3WH  WA 2GH 
+   GH      GA      YA      BA   
+   GA      GH      YH      BH   
+ YA12WH  WA 4BH  BA13WH  WA 5GH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA 0BH  BA15WH 
+   WH      GA      GA      GA   
+   WA      GH      GH      GH   
+ GA14YH  YA11WH  WA 8BH  BA 6YH 
+   BH      BA      YA      WA   
+A solution has been found!
+==========Solution #59===========
+   YA      GH      GH      YH   
+ BA10WH  WA 7BH  BA 3WH  WA 2GH 
+   GH      GA      YA      BA   
+   GA      GH      YH      BH   
+ YA12WH  WA 4BH  BA13WH  WA 5GH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA 0BH  BA 9WH 
+   WH      GA      GA      GA   
+   WA      GH      GH      GH   
+ GA14YH  YA11WH  WA 8BH  BA 6YH 
+   BH      BA      YA      WA   
+A solution has been found!
+==========Solution #60===========
+   YA      GH      GH      YH   
+ BA10WH  WA 7BH  BA 3WH  WA 2GH 
+   GH      GA      YA      BA   
+   GA      GH      YH      BH   
+ YA12WH  WA 4BH  BA13WH  WA 5GH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA14BH  BA 9WH 
+   WH      GA      GA      GA   
+   WA      GH      GH      GH   
+ GA 0YH  YA11WH  WA 8BH  BA 6YH 
+   BH      BA      YA      WA   
+A solution has been found!
+==========Solution #61===========
+   YA      GH      GH      YH   
+ BA10WH  WA 7BH  BA 3WH  WA 2GH 
+   GH      GA      YA      BA   
+   GA      GH      YH      BH   
+ YA12WH  WA 8BH  BA13WH  WA 5GH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA14BH  BA15WH 
+   WH      GA      GA      GA   
+   WA      GH      GH      GH   
+ GA 0YH  YA11WH  WA 4BH  BA 6YH 
+   BH      BA      YA      WA   
+A solution has been found!
+==========Solution #62===========
+   YA      GH      GH      YH   
+ BA10WH  WA 7BH  BA 3WH  WA 2GH 
+   GH      GA      YA      BA   
+   GA      GH      YH      BH   
+ YA12WH  WA 8BH  BA13WH  WA 5GH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA 9WH  WA 0BH  BA15WH 
+   WH      GA      GA      GA   
+   WA      GH      GH      GH   
+ GA14YH  YA11WH  WA 4BH  BA 6YH 
+   BH      BA      YA      WA   
+A solution has been found!
+==========Solution #63===========
+   YA      GH      GH      YH   
+ BA10WH  WA 7BH  BA 3WH  WA 2GH 
+   GH      GA      YA      BA   
+   GA      GH      YH      BH   
+ YA12WH  WA 8BH  BA13WH  WA 5GH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA 0BH  BA 9WH 
+   WH      GA      GA      GA   
+   WA      GH      GH      GH   
+ GA14YH  YA11WH  WA 4BH  BA 6YH 
+   BH      BA      YA      WA   
+A solution has been found!
+==========Solution #64===========
+   YA      GH      GH      YH   
+ BA10WH  WA 7BH  BA 3WH  WA 2GH 
+   GH      GA      YA      BA   
+   GA      GH      YH      BH   
+ YA12WH  WA 8BH  BA13WH  WA 5GH 
+   BH      YA      YA      YA   
+   BA      YH      YH      YH   
+ GA 1BH  BA15WH  WA14BH  BA 9WH 
+   WH      GA      GA      GA   
+   WA      GH      GH      GH   
+ GA 0YH  YA11WH  WA 4BH  BA 6YH 
+   BH      BA      YA      WA   
+A solution has been found!
+==========Solution #65===========
+   YH      BH      WH      YA   
+ BA13WH  WA 5GH  GA12BH  BA11GH 
+   YA      YA      YA      WH   
+   YH      YH      YH      WA   
+ WA14BH  BA15WH  WA 2GH  GA 7GH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 4BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA 0BH  BA 9WH  WA 8BH  BA10WH 
+   GA      GA      YA      GH   
+A solution has been found!
+==========Solution #66===========
+   YH      BH      WH      YA   
+ BA13WH  WA 5GH  GA12BH  BA11GH 
+   YA      YA      YA      WH   
+   YH      YH      YH      WA   
+ WA14BH  BA15WH  WA 2GH  GA 7GH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 8BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA 0BH  BA 9WH  WA 4BH  BA10WH 
+   GA      GA      YA      GH   
+A solution has been found!
+==========Solution #67===========
+   YH      BH      WH      YA   
+ BA13WH  WA 5GH  GA12BH  BA11GH 
+   YA      YA      YA      WH   
+   YH      YH      YH      WA   
+ WA14BH  BA 9WH  WA 2GH  GA 7GH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 4BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA 0BH  BA15WH  WA 8BH  BA10WH 
+   GA      GA      YA      GH   
+A solution has been found!
+==========Solution #68===========
+   YH      BH      WH      YA   
+ BA13WH  WA 5GH  GA12BH  BA11GH 
+   YA      YA      YA      WH   
+   YH      YH      YH      WA   
+ WA14BH  BA 9WH  WA 2GH  GA 7GH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 8BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA 0BH  BA15WH  WA 4BH  BA10WH 
+   GA      GA      YA      GH   
+A solution has been found!
+==========Solution #69===========
+   YH      BH      WH      YA   
+ BA13WH  WA 5GH  GA12BH  BA11GH 
+   YA      YA      YA      WH   
+   YH      YH      YH      WA   
+ WA 0BH  BA 9WH  WA 2GH  GA 7GH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 4BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA14BH  BA15WH  WA 8BH  BA10WH 
+   GA      GA      YA      GH   
+A solution has been found!
+==========Solution #70===========
+   YH      BH      WH      YA   
+ BA13WH  WA 5GH  GA12BH  BA11GH 
+   YA      YA      YA      WH   
+   YH      YH      YH      WA   
+ WA 0BH  BA 9WH  WA 2GH  GA 7GH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 8BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA14BH  BA15WH  WA 4BH  BA10WH 
+   GA      GA      YA      GH   
+A solution has been found!
+==========Solution #71===========
+   YH      BH      WH      YA   
+ BA13WH  WA 5GH  GA12BH  BA11GH 
+   YA      YA      YA      WH   
+   YH      YH      YH      WA   
+ WA 0BH  BA15WH  WA 2GH  GA 7GH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 4BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA14BH  BA 9WH  WA 8BH  BA10WH 
+   GA      GA      YA      GH   
+A solution has been found!
+==========Solution #72===========
+   YH      BH      WH      YA   
+ BA13WH  WA 5GH  GA12BH  BA11GH 
+   YA      YA      YA      WH   
+   YH      YH      YH      WA   
+ WA 0BH  BA15WH  WA 2GH  GA 7GH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 8BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA14BH  BA 9WH  WA 4BH  BA10WH 
+   GA      GA      YA      GH   
+A solution has been found!
+==========Solution #73===========
+   YH      BH      WH      GH   
+ BA15WH  WA 5GH  GA12BH  BA 3WH 
+   GA      YA      YA      YA   
+   GH      YH      YH      YH   
+ WA 4BH  BA 9WH  WA14BH  BA13WH 
+   YA      GA      GA      YA   
+   YH      GH      GH      YH   
+ WA 0BH  BA 6YH  YA11WH  WA 2GH 
+   GA      WA      BA      BA   
+   GH      WH      BH      BH   
+ WH10BA  BH 1GA  GH 7GA  GH 8YA 
+   YA      BA      WA      WA   
+A solution has been found!
+==========Solution #74===========
+   YH      BH      WH      GH   
+ BA15WH  WA 5GH  GA12BH  BA 3WH 
+   GA      YA      YA      YA   
+   GH      YH      YH      YH   
+ WA 4BH  BA 9WH  WA 0BH  BA13WH 
+   YA      GA      GA      YA   
+   YH      GH      GH      YH   
+ WA14BH  BA 6YH  YA11WH  WA 2GH 
+   GA      WA      BA      BA   
+   GH      WH      BH      BH   
+ WH10BA  BH 1GA  GH 7GA  GH 8YA 
+   YA      BA      WA      WA   
+A solution has been found!
+==========Solution #75===========
+   YH      BH      WH      GH   
+ BA15WH  WA 5GH  GA12BH  BA 3WH 
+   GA      YA      YA      YA   
+   GH      YH      YH      YH   
+ WA 8BH  BA 9WH  WA14BH  BA13WH 
+   YA      GA      GA      YA   
+   YH      GH      GH      YH   
+ WA 0BH  BA 6YH  YA11WH  WA 2GH 
+   GA      WA      BA      BA   
+   GH      WH      BH      BH   
+ WH10BA  BH 1GA  GH 7GA  GH 4YA 
+   YA      BA      WA      WA   
+A solution has been found!
+==========Solution #76===========
+   YH      BH      WH      GH   
+ BA15WH  WA 5GH  GA12BH  BA 3WH 
+   GA      YA      YA      YA   
+   GH      YH      YH      YH   
+ WA 8BH  BA 9WH  WA 0BH  BA13WH 
+   YA      GA      GA      YA   
+   YH      GH      GH      YH   
+ WA14BH  BA 6YH  YA11WH  WA 2GH 
+   GA      WA      BA      BA   
+   GH      WH      BH      BH   
+ WH10BA  BH 1GA  GH 7GA  GH 4YA 
+   YA      BA      WA      WA   
+A solution has been found!
+==========Solution #77===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA 9WH  WA 2GH  GA14YH 
+   YA      GA      BA      BH   
+   YH      GH      BH      BA   
+ BA13WH  WA 7BH  BA 1WH  WA 6GH 
+   YA      GA      GA      YH   
+   YH      GH      GH      YA   
+ WA 0BH  BA 3WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #78===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA 9WH  WA 2GH  GA 0YH 
+   YA      GA      BA      BH   
+   YH      GH      BH      BA   
+ BA13WH  WA 7BH  BA 1WH  WA 6GH 
+   YA      GA      GA      YH   
+   YH      GH      GH      YA   
+ WA14BH  BA 3WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #79===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA13WH  WA 2GH  GA14YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA 9WH  WA 0BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 7BH  BA 3WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #80===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA13WH  WA 2GH  GA14YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA 9WH  WA 0BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 8BH  BA 3WH  WA 7BH  BA10WH 
+   YA      YA      GA      GH   
+A solution has been found!
+==========Solution #81===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA13WH  WA 2GH  GA 0YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA 9WH  WA14BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 7BH  BA 3WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #82===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 4BH  BA13WH  WA 2GH  GA 0YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA 9WH  WA14BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 8BH  BA 3WH  WA 7BH  BA10WH 
+   YA      YA      GA      GH   
+A solution has been found!
+==========Solution #83===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 7BH  BA 9WH  WA 2GH  GA14YH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 4BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA 0BH  BA13WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #84===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 7BH  BA 9WH  WA 2GH  GA14YH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 8BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA 0BH  BA13WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #85===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 7BH  BA 9WH  WA 2GH  GA 0YH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 4BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA14BH  BA13WH  WA 8BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #86===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 7BH  BA 9WH  WA 2GH  GA 0YH 
+   GA      GA      BA      BH   
+   GH      GH      BH      BA   
+ BA 3WH  WA 8BH  BA 1WH  WA 6GH 
+   YA      YA      GA      YH   
+   YH      YH      GH      YA   
+ WA14BH  BA13WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #87===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA 9WH  WA 2GH  GA14YH 
+   YA      GA      BA      BH   
+   YH      GH      BH      BA   
+ BA13WH  WA 7BH  BA 1WH  WA 6GH 
+   YA      GA      GA      YH   
+   YH      GH      GH      YA   
+ WA 0BH  BA 3WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #88===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA 9WH  WA 2GH  GA 0YH 
+   YA      GA      BA      BH   
+   YH      GH      BH      BA   
+ BA13WH  WA 7BH  BA 1WH  WA 6GH 
+   YA      GA      GA      YH   
+   YH      GH      GH      YA   
+ WA14BH  BA 3WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #89===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA13WH  WA 2GH  GA14YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA 9WH  WA 0BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 7BH  BA 3WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #90===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA13WH  WA 2GH  GA14YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA 9WH  WA 0BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 4BH  BA 3WH  WA 7BH  BA10WH 
+   YA      YA      GA      GH   
+A solution has been found!
+==========Solution #91===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA13WH  WA 2GH  GA 0YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA 9WH  WA14BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 7BH  BA 3WH  WA 4BH  BA10WH 
+   GA      YA      YA      GH   
+A solution has been found!
+==========Solution #92===========
+   YH      BH      WH      YA   
+ BA15WH  WA 5GH  GA12BH  BA11GH 
+   GA      YA      YA      WH   
+   GH      YH      YH      WA   
+ WA 8BH  BA13WH  WA 2GH  GA 0YH 
+   YA      YA      BA      BH   
+   YH      YH      BH      BA   
+ BA 9WH  WA14BH  BA 1WH  WA 6GH 
+   GA      GA      GA      YH   
+   GH      GH      GH      YA   
+ WA 4BH  BA 3WH  WA 7BH  BA10WH 
+   YA      YA      GA      GH   
+A solution has been found!
+==========Solution #93===========
+   YH      BA      BA      YA   
+ BA15WH  WA 6GH  GA 1BH  BA10WH 
+   GA      YH      WH      GH   
+   GH      YA      WA      GA   
+ WA 4BH  BA11GH  GA14YH  YA12WH 
+   YA      WH      BH      BH   
+   YH      WA      BA      BA   
+ WA 2GH  GA 0YH  YA13YH  YA 3GH 
+   BA      BH      WH      WH   
+   BH      BA      WA      WA   
+ WA 5GH  GA 9YH  YA 8GH  GA 7GH 
+   YA      WH      BH      BH   
+A solution has been found!
+==========Solution #94===========
+   YH      BA      BA      YA   
+ BA15WH  WA 6GH  GA 1BH  BA10WH 
+   GA      YH      WH      GH   
+   GH      YA      WA      GA   
+ WA 4BH  BA11GH  GA 0YH  YA12WH 
+   YA      WH      BH      BH   
+   YH      WA      BA      BA   
+ WA 2GH  GA14YH  YA13YH  YA 3GH 
+   BA      BH      WH      WH   
+   BH      BA      WA      WA   
+ WA 5GH  GA 9YH  YA 8GH  GA 7GH 
+   YA      WH      BH      BH   
+A solution has been found!
+==========Solution #95===========
+   YH      BA      BA      YA   
+ BA15WH  WA 6GH  GA 1BH  BA10WH 
+   GA      YH      WH      GH   
+   GH      YA      WA      GA   
+ WA 8BH  BA11GH  GA14YH  YA12WH 
+   YA      WH      BH      BH   
+   YH      WA      BA      BA   
+ WA 2GH  GA 0YH  YA13YH  YA 3GH 
+   BA      BH      WH      WH   
+   BH      BA      WA      WA   
+ WA 5GH  GA 9YH  YA 4GH  GA 7GH 
+   YA      WH      BH      BH   
+A solution has been found!
+==========Solution #96===========
+   YH      BA      BA      YA   
+ BA15WH  WA 6GH  GA 1BH  BA10WH 
+   GA      YH      WH      GH   
+   GH      YA      WA      GA   
+ WA 8BH  BA11GH  GA 0YH  YA12WH 
+   YA      WH      BH      BH   
+   YH      WA      BA      BA   
+ WA 2GH  GA14YH  YA13YH  YA 3GH 
+   BA      BH      WH      WH   
+   BH      BA      WA      WA   
+ WA 5GH  GA 9YH  YA 4GH  GA 7GH 
+   YA      WH      BH      BH   
+NO MORE SOLUTIONS FOUND
